@@ -1,0 +1,27 @@
+@import '@/styles/variaveis';
+@import '@/styles/mixins';
+@import '@/styles/imports';
+
+@include smScreen() {
+    main {
+        margin: $sm-margin;
+    }
+}
+
+@include mdScreen() {
+    main {
+        margin: $md-margin;
+    }
+}
+
+@include lgScreen() {
+    main {
+        margin: $lg-margin;
+    }
+}
+
+@include xlScreen() {
+    main {
+        margin: $xl-margin;
+    }
+}

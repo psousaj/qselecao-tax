@@ -1,0 +1,31 @@
+@import '@/styles/variaveis';
+
+@mixin customScreen($screen) {
+    @media (min-width: $screen) {
+        @content;
+    }
+}
+
+@mixin smScreen() {
+    @media (min-width: 640px) {
+        @content;
+    }
+}
+
+@mixin mdScreen() {
+    @media (min-width: 760px) {
+        @content;
+    }
+}
+
+@mixin lgScreen() {
+    @media (min-width: 1024px) {
+        @content;
+    }
+}
+
+@mixin xlScreen() {
+    @media (min-width: 1280px) {
+        @content;
+    }
+}
