@@ -1,0 +1,254 @@
+{
+    "questions": [
+      {
+        "name": "Q1",
+        "question": "Eu sou...",
+        "alternatives": {
+          "I": "Idealista, criativo e visionário",
+          "C": "Divertido, espiritual e benáfico",
+          "O": "Confiável, meticuloso e previsível",
+          "A": "Focado, determinado e persistente"
+        }
+      },
+      {
+        "name": "Q2",
+        "question": "Eu gosto de...",
+        "alternatives": {
+          "A": "Ser piloto",
+          "C": "Conversar com os passageiros",
+          "O": "Planejar a viagem",
+          "I": "Explorar novas rotas"
+        }
+      },
+      {
+        "name": "Q3",
+        "question": "Se vocé quiser se dar bem comigo...",
+        "alternatives": {
+          "I": "Me dê liberdade",
+          "O": "Me deixe saber sua expectativa",
+          "A": "Lidere, siga ou saia do caminho",
+          "C": "Seja amigável, carinhoso e compreensivo"
+        }
+      },
+      {
+        "name": "Q4",
+        "question": "Para conseguir obter bons resultados é preciso...",
+        "alternatives": {
+          "I": "Ter incertezas",
+          "O": "Controlar o essencial",
+          "C": "Diversão e celebracão",
+          "A": "Planejar e obter recursos"
+        }
+      },
+      {
+        "name": "Q5",
+        "question": "Eu me divirto quando...",
+        "alternatives": {
+          "A": "Estou me exercitando",
+          "I": "Tenho novidades",
+          "C": "Estou com os outros",
+          "O": "Determino as regras"
+        }
+      },
+      {
+        "name": "Q6",
+        "question": "Eu penso que...",
+        "alternatives": {
+          "C": "Unidos venceremos, divididos perderemos",
+          "A": "O ataque é melhor que a defesa",
+          "I": "É bom ser manso, mas andar com um porrete",
+          "O": "Um homem prevenido vale por dois"
+        }
+      },
+      {
+        "name": "Q7",
+        "question": "Minha preocupacao é...",
+        "alternatives": {
+          "I": "Gerar a ideia global",
+          "C": "Fazer com que as pessoas gostem",
+          "O": "Fazer com que funcione",
+          "A": "Fazer com que aconteça"
+        }
+      },
+      {
+        "name": "Q8",
+        "question": "Eu prefiro...",
+        "alternatives": {
+          "I": "Perguntas a respostas",
+          "O": "Ter todos os detalhes",
+          "A": "Vantagens a meu favor",
+          "C": "Que todos tenham a chance de ser ouvido"
+        }
+      },
+      {
+        "name": "Q9",
+        "question": "Eu gosto de...",
+        "alternatives": {
+          "A": "Fazer progresso",
+          "C": "Construir memorias",
+          "O": "Fazer sentido",
+          "I": "Tornar as pessoas confortaveis"
+        }
+      },
+      {
+        "name": "Q10",
+        "question": "Eu gosto de chegar...",
+        "alternatives": {
+          "A": "Na frete",
+          "C": "Junto",
+          "O": "Nahora",
+          "I": "Em outro lugar"
+        }
+      },
+      {
+        "name": "Q11",
+        "question": "Um ótimo dia para mim é quando...",
+        "alternatives": {
+          "A": "Consigo fazer muitas coisas",
+          "C": "Me divirto com meus amigos",
+          "O": "Tudo segue conforme planejado",
+          "I": "Desfruto de coisas novas e estimulantes"
+        }
+      },
+      {
+        "name": "Q12",
+        "question": "Eu vejo a morte como...",
+        "alternatives": {
+          "I": "Uma grande aventura misteriosa",
+          "C": "Oportunidade para rever os falecidos",
+          "O": "Um modo de receber recompensas",
+          "A": "Algo que sempre chega muito cedo"
+        }
+      },
+      {
+        "name": "Q13",
+        "question": "Minha filosofia de vida é...",
+        "alternatives": {
+          "A": "Ha ganhadores e perdedores, e eu acredito ser um ganhador",
+          "C": "Para eu ganhar, ninguém precisa perder",
+          "O": "Para ganhar é preciso seguir as regras",
+          "I": "Para ganhar, é necessario inventar novas regras"
+        }
+      },
+      {
+        "name": "Q14",
+        "question": "Eu sempre gostei de...",
+        "alternatives": {
+          "I": "Explorar",
+          "O": "Evitar surpresas",
+          "A": "Focalizar a meta",
+          "C": "Realizar uma abordagem natural"
+        }
+      },
+      {
+        "name": "Q15",
+        "question": "Eu gosto de mudanças se...",
+        "alternatives": {
+          "A": "Me der uma vantagem competitiva",
+          "C": "For divertido e puder ser compartilhado",
+          "I": "Me der mais liberdade e variedade",
+          "O": "Melhorar ou me der mais controle"
+        }
+      },
+      {
+        "name": "Q16",
+        "question": "Nao existe nada de errado em...",
+        "alternatives": {
+          "A": "Se colocar na frente",
+          "C": "Colocar os outros na frente",
+          "I": "Mudar de ideia",
+          "O": "Ser consistente"
+        }
+      },
+      {
+        "name": "Q17",
+        "question": "Eu gosto de buscar conselhos de...",
+        "alternatives": {
+          "A": "Pessoas bem-sucedidas",
+          "C": "Ancides e conselheiros",
+          "O": "Autoridades no assunto",
+          "I": "Lugares, os mais estranhos"
+        }
+      },
+      {
+        "name": "Q18",
+        "question": "Meu lema é...",
+        "alternatives": {
+          "I": "Fazer 0 que precisa ser feito",
+          "O": "Fazer bem feito",
+          "C": "Fazer junto com o grupo",
+          "A": "Simplesmente fazer"
+        }
+      },
+      {
+        "name": "Q19",
+        "question": "Eu gosto de...",
+        "alternatives": {
+          "I": "Complexidade, mesmo se confuso",
+          "O": "Ordem e sistematizacão",
+          "C": "Calor humano e animacão",
+          "A": "Coisas claras e simples"
+        }
+      },
+      {
+        "name": "Q20",
+        "question": "Tempo para mim é...",
+        "alternatives": {
+          "A": "Algo que detesto desperdiçar",
+          "C": "Um grande ciclo",
+          "O": "Uma flecha que leva ao inevitável",
+          "I": "Irrelevante"
+        }
+      },
+      {
+        "name": "Q21",
+        "question": "Se eu fosse bilionario.",
+        "alternatives": {
+          "C": "Faria doações para muitas entidades",
+          "O": "Criaria uma poupanga avantajada",
+          "I": "Faria o que desse na cabeca",
+          "A": "Exibiria bastante com algumas pessoas"
+        }
+      },
+      {
+        "name": "Q22",
+        "question": "Eu acredito que...",
+        "alternatives": {
+          "A": "O destino é mais importante que a jornada",
+          "C": "A jornada é mais importante que o destino",
+          "O": "Um centavo economizado é um centavo ganho",
+          "I": "Bastam um navio e uma estrela para navegar"
+        }
+      },
+      {
+        "name": "Q23",
+        "question": "Eu acredito também que...",
+        "alternatives": {
+          "A": "Aquele que hesita esta perdido",
+          "O": "De grão em grão a galinha enche o papo",
+          "C": "O que vai, volta",
+          "I": "Um sorriso ou uma careta é o mesmo para quem é cego"
+        }
+      },
+      {
+        "name": "Q24",
+        "question": "Eu acredito ainda que...",
+        "alternatives": {
+          "O": "É melhor prudência do que arrependimento",
+          "I": "A autoridade deve ser desafiada",
+          "A": "Ganhar é fundamental",
+          "C": "O coletivo é mais importante do que o individual"
+        }
+      },
+      {
+        "name": "Q25",
+        "question": "Eu penso que...",
+        "alternatives": {
+          "I": "Não é fácil ficar encurralado",
+          "A": "É preferível olhar, antes de pular",
+          "C": "Duas cabeças pensam melhor do que uma",
+          "O": "Se você não tem condições de competir, não compita"
+        }
+      }
+    ]
+  }

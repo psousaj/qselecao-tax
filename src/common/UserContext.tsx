@@ -22,7 +22,7 @@ export const useUserContext = () => {
 }
 
 export function UserProvider({ children }: { children: React.ReactNode }) {
-    const initialState = { name: 'Maria', email: 'XXXXXXXXXXXX' }
+    const initialState = { name: 'José', email: 'XXXXXXXXXXXX' }
     const [user, setUser] = useState<User | null>(initialState)
 
     return (
